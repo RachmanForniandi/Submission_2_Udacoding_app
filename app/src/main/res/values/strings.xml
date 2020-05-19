@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Submission_2_Udacoding_app</string>
+    <string name="greeting_main">Selamat datang ! Silahkan pilih Project yang mau dilihat.</string>
+    <string name="to_recyclerview">Ke List Recyclerview</string>
+    <string name="to_calculator">Ke Kalkulator</string>
+</resources>
